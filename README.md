@@ -9,8 +9,8 @@ To write a program to implement the linear regression using gradient descent.
 
 ## Algorithm
 1.Import the standard libraries in python required for finding Gradient Design.
-2.Read the dataset file and check any null value using .isnull() method.
-3.Declare the default variables with respective values for linear regression.
+2.Read the dataset file and check any null value using .isnull() method.<br>
+3.Declare the default variables with respective values for linear regression.<br>
 4.Calculate the loss using Mean Square Error. <br>
 5.Predict the value of y.<br>
 6.Plot the graph respect to hours and scores using .scatterplot() method for Linear Regression.<br>

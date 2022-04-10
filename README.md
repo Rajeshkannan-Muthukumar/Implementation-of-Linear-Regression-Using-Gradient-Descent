@@ -11,9 +11,9 @@ To write a program to implement the linear regression using gradient descent.
 1.Import the standard libraries in python required for finding Gradient Design.
 2.Read the dataset file and check any null value using .isnull() method.
 3.Declare the default variables with respective values for linear regression.
-4.Calculate the loss using Mean Square Error.
-5.Predict the value of y.
-6.Plot the graph respect to hours and scores using .scatterplot() method for Linear Regression.
+4.Calculate the loss using Mean Square Error. <br>
+5.Predict the value of y.<br>
+6.Plot the graph respect to hours and scores using .scatterplot() method for Linear Regression.<br>
 7.Plot the graph respect to loss and iterations using .plot() method for Gradient Descent.
 
 ## Program:
@@ -74,9 +74,15 @@ plt.show()
 ```
 ## Output:
 Linear Regression Graph:
-![WhatsApp Image 2022-04-10 at 5 33 16 PM](https://user-images.githubusercontent.com/93901857/162617234-f18c8d2f-9833-4553-8e0b-69a37c49d18f.jpeg)
+
+![PC1](https://user-images.githubusercontent.com/93901857/162617742-2d1bdf0a-a082-41a3-8d60-d2b5ebc6f8c0.jpeg)
+
+
+
 Gradient Descent Graph:
-![WhatsApp Image 2022-04-10 at 5 33 15 PM](https://user-images.githubusercontent.com/93901857/162617232-e3f449ec-6ee7-4df6-bc13-ad426def56ab.jpeg)
+ 
+ 
+![WhatsApp Image 2022-04-10 at 5 33 16 PM](https://user-images.githubusercontent.com/93901857/162617234-f18c8d2f-9833-4553-8e0b-69a37c49d18f.jpeg)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.

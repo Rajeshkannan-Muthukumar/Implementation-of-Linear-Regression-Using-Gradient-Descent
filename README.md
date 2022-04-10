@@ -74,9 +74,10 @@ plt.show()
 
 ## Output:
 Linear Regression Graph:
-https://github.com/Kaushika21500112/Implementation…Regression-Using-Gradient-Descent/raw/main/o6.png
+![WhatsApp Image 2022-04-10 at 5 33 16 PM](https://user-images.githubusercontent.com/93901857/162617234-f18c8d2f-9833-4553-8e0b-69a37c49d18f.jpeg)
 Gradient Descent Graph:
-https://github.com/Kaushika21500112/Implementation…Regression-Using-Gradient-Descent/raw/main/o7.png
+![WhatsApp Image 2022-04-10 at 5 33 15 PM](https://user-images.githubusercontent.com/93901857/162617232-e3f449ec-6ee7-4df6-bc13-ad426def56ab.jpeg)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
+

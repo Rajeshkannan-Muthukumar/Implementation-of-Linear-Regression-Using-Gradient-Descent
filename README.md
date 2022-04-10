@@ -23,7 +23,7 @@ Program to implement the linear regression using gradient descent.
 Developed by: M.Rajeshkannan
 RegisterNumber:212221230081  
 */
-```
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -71,7 +71,7 @@ plt.plot(loss, color="skyblue")
 plt.xlabel("Iterations")
 plt.ylabel("Loss")
 plt.show()
-
+```
 ## Output:
 Linear Regression Graph:
 ![WhatsApp Image 2022-04-10 at 5 33 16 PM](https://user-images.githubusercontent.com/93901857/162617234-f18c8d2f-9833-4553-8e0b-69a37c49d18f.jpeg)
